@@ -1,3 +1,3 @@
-- Developed a LogisticRegression model for the heart disease prediction with the accuracy of 88.5% accuracy.
+- Applied LogisticRegression algorithm to build model for the heart disease prediction with the accuracy of 88.5% accuracy.
 - Tuned the hyperparameters with RandomizedSearchCV and applied best parameters on the model.
 - Evaluated the model with Cross Validation and analyzed the feature importances of the data.
